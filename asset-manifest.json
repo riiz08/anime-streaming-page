@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/anime-streaming-page/static/css/main.c5502db7.css",
+    "main.js": "/anime-streaming-page/static/js/main.ce66f5d8.js",
+    "static/media/slick.svg": "/anime-streaming-page/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/anime-streaming-page/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/anime-streaming-page/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/anime-streaming-page/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/anime-streaming-page/index.html",
+    "main.c5502db7.css.map": "/anime-streaming-page/static/css/main.c5502db7.css.map",
+    "main.ce66f5d8.js.map": "/anime-streaming-page/static/js/main.ce66f5d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5502db7.css",
+    "static/js/main.ce66f5d8.js"
+  ]
+}
